@@ -12,7 +12,9 @@ layout: default
       </div>
       <aside class="entry-sidebar">
         {% include author %}
-        <img class="author-picture" src="{{ author_picture }}" alt="{{ author_name }}">
+        <div style="width: 300px; max-width: 100%; height: auto;">
+          <img class="author-picture" src="{{ author_picture }}" alt="{{ author_name }}" max-width=20%>
+        </div>
       </aside>
     </div>
 

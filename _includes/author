@@ -18,6 +18,15 @@
     {% endif %}
     {% unless author_picture contains '://' %}{% assign author_picture = author_picture | relative_url %}{% endunless %}
   {% endif %}
+  {% if author.picture2 %}
+    {% assign author_picture2 = author.picture2 %}
+  {% endif %}
+  {% if author.picture3 %}
+    {% assign author_picture3 = author.picture3 %}
+  {% endif %}
+  {% if author.picture4 %}
+    {% assign author_picture4 = author.picture4 %}
+  {% endif %}
 
   {% if author.twitter %}
     {% assign author_twitter = author.twitter %}

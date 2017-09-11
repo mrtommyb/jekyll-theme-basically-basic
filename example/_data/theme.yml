@@ -31,4 +31,7 @@ google_fonts:
 
 navigation_pages:
   - about.md
+  - projects.md
+  - software.md
+  - outreach.md
   - cv.md

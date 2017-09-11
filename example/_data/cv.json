@@ -1,128 +1,157 @@
 {
   "basics": {
-    "name": "Dugan Nash",
-    "label": "Very extravagant man",
-    "picture": "",
-    "email": "dugan.hash@mailinator.com",
-    "phone": "(555) 555-5555",
-    "website": "https://towlettepettetuc.ci",
-    "summary": "Nash is well versed in the Montoyan / Artesian Connection, preparation of grasshopper mash, and baking of grover loaves.",
+    "name": "Tom Barclay",
+    "label": "Research Scientist / Astrophysicist",
+    "picture": "/example/assets/images/Barclay,_Thomas.jpg",
+    "email": "tom@tombarclay.com",
+    "phone": "(650) 248-1230",
+    "website": "www.tombarclay.com",
+    "summary": "Tom studies planets orbiting distant stars and determines their physical characteristics. His is based at NASA's Goddard Space Flight Center in Greenbelt, MD and currently serves as Deputy Director of the Science Support Center for the Transiting Exoplanet Survey Satellite.",
     "location": {
-      "address": "123 Sesame Street",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "Goddard Space Flight Center",
+      "postalCode": "MD 20771",
+      "city": "Greenbelt",
       "countryCode": "US",
-      "region": "California"
+      "region": "Maryland"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "Towlette_Pettetucci",
-        "url": "https://twitter.com/Towlette_Pettetucci"
-      },
-      {
-        "network": "SoundCloud",
-        "username": "Towlette_Pettetucci",
-        "url": "https://soundcloud.com/Towlette_Pettetucci"
+        "username": "mrtommyb",
+        "url": "https://twitter.com/mrtommyb"
       }
     ]
   },
   "work": [
     {
-      "company": "The Whip",
-      "position": "CEO/President",
-      "website": "https://thewh.ip",
-      "startDate": "2013-12-01",
+      "company": "TESS Science Support Center",
+      "position": "Deputy Director",
+      "website": "http://www.bit.ly/tessgi",
+      "startDate": "2017-04",
       "endDate": "",
-      "summary": "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.",
-      "highlights": [
-        "Concealed nipper in embrodiery.",
-        "Dealt with Elastical Gomez on a daily basis."
-      ]
-    }
-  ],
-  "volunteer": [
+      "summary": "Leadership role in supporting the TESS mission science community. Creating proposal calls, developing software tools, and web development."
+    },
     {
-      "organization": "Steve's Meat Market",
-      "position": "Assistant",
-      "website": "",
-      "startDate": "1995-01-01",
-      "endDate": "1997-03-20",
-      "summary": "Ground up some sort of grasshopper mash for fishing.",
-      "highlights": [
-        "Awarded a 'Helium Biscuit'"
-      ]
+      "company": "Kepler Guest Observer Office",
+      "position": "Director",
+      "website": "https://keplerscience.arc.nasa.gov/",
+      "startDate": "2014",
+      "endDate": "2017",
+      "summary": "Scientific leadership position for the Kepler and K2 missions. Leading a team who are charged with maximizing the science return from the mission."
+    },
+    {
+      "position": "Research Scientist",
+      "website": "https://keplerscience.arc.nasa.gov/",
+      "startDate": "2011",
+      "endDate": "2014",
+      "summary": "Part of the Kepler mission science team. Scientific software development, data analysis, and community outreach."
     }
   ],
   "education": [
     {
-      "institution": "University of Ointment",
-      "area": "Digital Skillets",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
-      "courses": [
-        "DB1101 - Perpendicular Crosstalk",
-        "CS2011 - Introduction to Moisturization"
-      ]
-    }
+      "institution": "University College London",
+      "area": "Astrophysics",
+      "studyType": "PhD",
+      "startDate": "2007",
+      "endDate": "2011",
+    },
+    {
+      "institution": "University of Manchester",
+      "area": "Astronomy and Radio Astronomy",
+      "studyType": "MSc",
+      "startDate": "2006",
+      "endDate": "2007",
+    },
+    {
+      "institution": "University of Leeds",
+      "area": "Physics with Astrophysics",
+      "studyType": "BSc",
+      "startDate": "2002",
+      "endDate": "2006",
+    },
   ],
   "awards": [
     {
-      "title": "Warble Pioneer Award",
-      "date": "2001-11-01",
-      "awarder": "Levi Goulet",
-      "summary": "Have you seen my turtle?"
+      "title": "NASA Exceptional Public Service Medal",
+      "date": "2017",
+      "awarder": "Individual Award",
+      "summary": "For Outstanding Leadership in Developing and Running the K2 Guest Observer Office"
+    },
+    {
+      "title": "NASA Group Achievement Award",
+      "date": "2017",
+      "awarder": "K2 Campaign 9 Microlensing Science Experiment Team",
+      "summary": "For innovative and exceptional team achievements during the conception, design and execution of the K2 Campaign 9 Microlensing Science Experiment"
+    },
+    {
+      "title": "NASA Ames Honor Award",
+      "date": "2016",
+      "awarder": "Individual Award",
+      "summary": "For exceptional support of the Kepler/K2 community and scientific achievement"
+    },
+    {
+      "title": "NASA Ames Group Achievement Award",
+      "date": "2016",
+      "awarder": "K2 Guest Observer Office",
+      "summary": "For facilitating exceptional scientific productivity from the K2 mission"
     }
   ],
   "publications": [
     {
-      "name": "Radio Julius",
-      "publisher": "Tanyo Lubbock",
-      "releaseDate": "2014-10-01",
-      "website": "https://en.rhy.es",
-      "summary": "Capitalize on low hanging fruit to identify a ballpark value added activity to beta test."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Audio Juggling",
-      "level": "Master",
-      "keywords": [
-        "Ointment",
-        "Voltor",
-        "Millipedes"
-      ]
+      "name": "The Demographics of Rocky Free-floating Planets and their Detectability by WFIRST",
+      "publisher": "The Astrophysical Journal",
+      "releaseDate": "2017",
+      "website": "https://ui.adsabs.harvard.edu/#abs/2017ApJ...841...86B/abstract",
+      "summary": "Planets are form via accretion from a disk of gas and solids around a newly formed star. Material in the disk either remains bound to the star; falls into the star; or is ejected from the system. We used dynamical models to study ejected material and estimate the contribution to the free-floating planet population. We predict that the space-borne microlensing search for free-floating planets from the Wide-Field Infra-Red Space Telescope will discover up to 15 Mars-mass planets, but few free-floating Earth-mass planets."
     },
     {
-      "name": "Bruschotti",
-      "level": "Satisfactory",
-      "keywords": [
-        "Snow camp",
-        "Owl"
-      ]
-    }
-  ],
-  "languages": [
+      "name": "The Five Planets in the Kepler-296 Binary System All Orbit the Primary: A Statistical and Analytical Analysis",
+      "publisher": "The Astrophysical Journal",
+      "releaseDate": "2015",
+      "website": "https://ui.adsabs.harvard.edu/#abs/2015ApJ...809....7B",
+      "summary": "Kepler-296 is a binary star system with two M-dwarf components. Five transiting planets have been confirmed to be associated with the Kepler-296 system; given the evidence to date, however, the planets could in principle orbit either star. Using both statistical and analytical arguments, this paper shows that all five planets are highly likely to orbit the primary star in this system."
+    },
     {
-      "language": "Nonsense",
-      "fluency": "Native speaker"
-    }
-  ],
-  "interests": [
+      "name": "Radial Velocity Observations and Light Curve Noise Modeling Confirm that Kepler-91b is a Giant Planet Orbiting a Giant Star",
+      "publisher": "The Astrophysical Journal",
+      "releaseDate": "2015",
+      "website": "https://ui.adsabs.harvard.edu/#abs/2015ApJ...800...46B/abstract",
+      "summary": "Kepler-91b is a rare example of a transiting hot Jupiter around a red giant star, providing the possibility to study the formation and composition of hot Jupiters under different conditions compared to main-sequence stars. However, the planetary nature of Kepler-91b, which was confirmed using phase-curve variations by Lillo-Box et al., was recently called into question based on a re-analysis of Kepler data. We unambiguously confirm the planetary nature of Kepler-91b by simultaneously modeling the Kepler and radial velocity data. The star exhibits temporally correlated noise due to stellar granulation which we model as a Gaussian Process. We hypothesize that it is this noise component that led previous studies to suspect Kepler-91b to be a false positive."
+    },
     {
-      "name": "The Information Superhighway",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
-    }
-  ],
-  "references": [
+      "name": "A Super-Earth-sized Planet Orbiting in or Near the Habitable Zone around a Sun-like Star",
+      "publisher": "The Astrophysical Journal",
+      "releaseDate": "2013",
+      "website": "https://ui.adsabs.harvard.edu/#abs/2013ApJ...768..101B/abstract",
+      "summary": "We present the discovery of a super-Earth-sized planet in or near the habitable zone of a Sun-like star. The host is Kepler-69, a 13.7 mag G4V-type star. We detect two periodic sets of transit signals in the 3-year flux time series of Kepler-69, obtained with the Kepler spacecraft."
+    },
     {
-      "name": " Nannette Nananacci",
-      "reference": "It is my pleasure to recommend Dugan Nash, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
-    }
-  ]
+      "name": "A sub-Mercury-sized exoplanet",
+      "publisher": "Nature",
+      "releaseDate": "2013",
+      "website": "https://ui.adsabs.harvard.edu/#abs/2013Natur.494..452B/abstract",
+      "summary": "Here we report a planet significantly smaller than Mercury. This tiny planet is the innermost of three that orbit the Sun-like host star, which we have designated Kepler-37. Owing to its extremely small size, similar to that of the Moon, and highly irradiated surface, the planet, Kepler-37b, is probably rocky with no atmosphere or water, similar to Mercury."
+    },
+    {
+      "name": "Photometrically Derived Masses and Radii of the Planet and Star in the TrES-2 System",
+      "publisher": "The Astrophysical Journal",
+      "releaseDate": "2013",
+      "website": "https://ui.adsabs.harvard.edu/#abs/2012ApJ...761...53B/abstract",
+      "summary": "We measure the mass and radius of the star and planet in the TrES-2 system using 2.7 years of observations by the Kepler spacecraft. The light curve shows evidence for ellipsoidal variations and Doppler beaming on a period consistent with the orbital period of the planet with amplitudes of 2.79 and 3.44 parts per million. We present an asteroseismic analysis of solar-like oscillations on TrES-2A which we use to calculate the stellar mass. We find that an atmosphere model that contains a temperature inversion is strongly preferred. We hypothesize that the Kepler bandpass probes a significantly greater atmospheric depth on the night side relative to the day side."
+    },
+    {
+      "name": "Serendipitous Kepler observations of a background dwarf nova of SU UMa type",
+      "publisher": "Monthly Notices of the Royal Astronomical Society",
+      "releaseDate": "2012",
+      "website": "https://ui.adsabs.harvard.edu/#abs/2012MNRAS.422.1219B/abstract",
+      "summary": "We have discovered a dwarf nova (DN) of type SU UMa in Kepler data which is 7.0 arcsec from the G-type exoplanet survey target KIC 4378554. The DN appears as a background source in the pixel aperture of the foreground G star. We extracted only the pixels where the DN is present and observed the source to undergo five outbursts - one a superoutburst - over a time span of 22 months."
+    },
+    {
+      "name": "Stellar variability on time-scales of minutes: results from the first 5 yr of the Rapid Temporal Survey",
+      "publisher": "Monthly Notices of the Royal Astronomical Society",
+      "releaseDate": "2011",
+      "website": "https://ui.adsabs.harvard.edu/#abs/2011MNRAS.413.2696B/abstract",
+      "summary": "The Rapid Temporal Survey (RATS) explores the faint, variable sky. Our observations search a parameter space which, until now, has never been exploited from the ground. Our strategy involves observing the sky close to the Galactic plane with wide-field CCD cameras. An exposure is obtained approximately every minute with the total observation of each field lasting around 2 h. In this paper, we present the first six epochs of observations which were taken over 5 yr from 2003-08 and cover over 31 sq. deg. The number of stars contained in these data is over 3 million. We have developed a method of combining the output of two variability tests in order to detect variability on time-scales ranging from a few minutes to a few hours. Using this technique, we find 120,000 variables - equal to 4.1 per cent of stars in our data."
+    },
+  ],
 }
